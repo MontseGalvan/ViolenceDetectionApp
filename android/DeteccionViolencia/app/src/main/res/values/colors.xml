@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Para CardViews -->
+    <color name="card_background_light">#E8F4FD</color>
+
+    <!-- Colores principales -->
+    <color name="purple_primary">#6B4EFF</color>
+    <color name="purple_light">#F0EBFF</color>
+    <color name="purple_dark">#5B43E0</color>
+    <color name="purple_50">#F3E5F5</color>
+
+    <!-- Colores de acento -->
+    <color name="teal_primary">#00C9B1</color>
+    <color name="teal_light">#E0F7FA</color>
+    <color name="teal_50">#E0F2F1</color>
+
+    <!-- Colores neutros -->
+    <color name="gray">#FF666666</color>
+    <color name="gray_dark">#FF666666</color>
+    <color name="gray_medium">#FF999999</color>
+    <color name="gray_light">#FFE0E0E0</color>
+
+    <!-- Fondo de la app -->
+    <color name="background_light">#F5F2FF</color>
+
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+
+</resources>

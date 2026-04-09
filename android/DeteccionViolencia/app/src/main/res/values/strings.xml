@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SafeVoice</string>
+
+    <!-- Strings para compatibilidad con el sistema de Android o Gradle si se necesitan -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Iniciar</string>
+
+</resources>
