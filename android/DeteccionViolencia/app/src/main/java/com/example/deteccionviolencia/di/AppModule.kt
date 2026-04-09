@@ -86,7 +86,7 @@ object AppModule {
     @Singleton
     fun provideClassificationApi(client: OkHttpClient): ClassificationApi {
         return Retrofit.Builder()
-            .baseUrl("https://violencedetectionapp.onrender.com/")
+            .baseUrl("https://violencedetectionapp-165z.onrender.com")
             .client(client)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
