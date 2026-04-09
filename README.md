@@ -42,13 +42,8 @@ El usuario comienza registrándose o iniciando sesión en la aplicación mediant
 - Dispositivo físico o emulador con Android 7.0+
 
 ### Pasos para ejecutar la aplicación
-1. **Obtener el código fuente**:
-   - Clonar el repositorio:
-     ```bash
-     git clone https://github.com/MontseGalvan/ViolenceDetectionApp.git
-     ```
-   - O descargar el ZIP desde GitHub y extraerlo.
-2. Abrir Android Studio y seleccionar **Open an Existing Project**, luego elegir la carpeta `android/DeteccionViolencia` dentro del repositorio clonado o extraído.
+1. Abrir Android Studio.
+2. Seleccionar **Open an Existing Project** y elegir la carpeta `android/DeteccionViolencia`.
 3. Esperar a que Gradle sincronice las dependencias.
 4. Conectar un dispositivo físico (con depuración USB habilitada) o iniciar un emulador.
 5. Compilar y ejecutar la aplicación.
